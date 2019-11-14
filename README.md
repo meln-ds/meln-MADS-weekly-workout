@@ -1,4 +1,3 @@
-# MADS_weekly_workout
-Public channel to practice data science skills on projects we find
+# MADS Weekly Data Analysis Workouts
 
-I think the plan would be to CLONE the #Weekly_Workout, edit the cloned notebook, and then post solutions (maybe using nbviewer) to the #MADS_Weekly_Workout SLACK channel
+A clone from the MADS_weekly_workout Git repo.
